@@ -6,7 +6,7 @@ ssid_name=Fjordstova
 wpa_password=fjordhotel1303
 browser=chrome
 dpms_idle=10
-homepage=http://www.vestforsk.no
+homepage=https://www.yr.no/place/Norway/Sogn_og_Fjordane/Sogndal/Mundal/hour_by_hour.html?spr=eng|http://fjaerlandhotel.com/|https://www.fjordnorway.com/
 session_idle=10
 primary_keyboard_layout=no
 secondary_keyboard_layout=us
