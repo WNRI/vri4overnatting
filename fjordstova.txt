@@ -15,3 +15,4 @@ right_mouse_click=yes
 swap_file=1024
 additional_components=uefi.zip
 screen_settings=eDP1:1600x1200:60.00:normal:left:normal
+kiosk_config=https://raw.githubusercontent.com/WNRI/vri4overnatting/master/fjordstova.txt
