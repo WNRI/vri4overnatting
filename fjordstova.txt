@@ -1,0 +1,16 @@
+connection=wifi
+network_interface=wlan0
+dhcp=yes
+wifi_encryption=wpa
+ssid_name=Fjordstova
+wpa_password=fjordhotel1303
+browser=firefox
+dpms_idle=10
+homepage=http://www.vestforsk.no
+session_idle=10
+primary_keyboard_layout=no
+secondary_keyboard_layout=us
+disable_numlock=yes
+right_mouse_click=yes
+swap_file=1024
+additional_components=uefi.zip
