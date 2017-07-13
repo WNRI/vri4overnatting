@@ -17,3 +17,4 @@ screen_settings=eDP1:1920x1080:60.00:normal:normal:normal
 kiosk_config=https://raw.githubusercontent.com/WNRI/vri4overnatting/master/fjordstova.txt
 scheduled_action=Monday-01:00 Tuesday-11:15 Wednesday-01:00 Thursday-01:00 Friday-01:00 Saturday-01:00 Sunday-01:00 action:shutdown
 rtc_wake=Monday-06:00 Tuesday-06:00 Wednesday-06:00 Thursday-11:30 Friday-06:00 Saturday-06:00 Sunday-06:00
+timezone=Europe/Oslo
