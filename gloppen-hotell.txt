@@ -5,7 +5,7 @@ wifi_encryption=wpa
 ssid_name=Fjordstova
 wpa_password=fjordhotel1303
 browser=firefox
-homepage=https://www.yr.no/place/Norway/Sogn_og_Fjordane/Gloppen/Sandane~169239/hour_by_hour.html|http://www.gloppenhotell.no/heim/|https://www.fjordnorway.com/
+homepage=https://vestforsk.limequery.com/441239/newtest/Y?Hhotel=A1
 session_idle=7
 primary_keyboard_layout=no
 secondary_keyboard_layout=us
