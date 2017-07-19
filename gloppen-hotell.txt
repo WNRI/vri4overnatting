@@ -3,6 +3,7 @@ network_interface=wlan0
 dhcp=yes
 wifi_encryption=wpa
 ssid_name=gloppenhotell
+wpa_password=hotell2013
 browser=firefox
 homepage=https://vestforsk.limequery.com/441239/newtest/Y?Hhotel=A1&Where=A1|https://www.yr.no/place/Norway/Sogn_og_Fjordane/Gloppen/Sandane/hour_by_hour.html
 session_idle=5
